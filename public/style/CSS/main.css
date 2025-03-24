@@ -1,13 +1,13 @@
 #section_titre{
-    background-color: rgb(40, 89, 136);
+    background-color: rgb(51, 77, 92);
     color: white;
     display: flex;
     justify-content: center;
     gap: 115px;
 }
 .partie1{
-    background-color: rgb(40, 89, 136);
-    color: white;
+    background-color: rgb(51, 77, 92);
+    color: rgb(255, 255, 255);
     text-align: center;
     margin: 20px;
     margin-left: 40%;
@@ -18,6 +18,31 @@
 }
 .centreSection{
     display: flex;
-    border: solid 1px blue;
     justify-content: space-evenly;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+.centreSection div{
+    margin-left: 200px;
+    margin-right: 100px;
+}
+.partie4{
+    display: flex;
+    justify-content: center;
+    background-color: #eae3d6;
+    flex: 1 1 auto;
+    flex-wrap: wrap;
+    min-width: 38%;
+    gap: 20% 18%;
+    flex: auto;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.partie4 div{
+    flex-direction: column-reverse;
+    display: flex;
+    align-items: center;
+}
+.partie4 img{
+    height: 100px;
 }
