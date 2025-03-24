@@ -1,0 +1,7 @@
+#section_titre{
+    background-color: rgb(40, 89, 136);
+    color: white;
+    display: flex;
+    justify-content: center;
+    gap: 115px;
+}
