@@ -10,7 +10,7 @@ header nav{
     display: flex;
     justify-content: space-evenly;
     width: auto;
-    gap: 3vw;
+    gap: 2vw;
     flex-wrap: wrap;
 }
 header nav div img{
@@ -25,10 +25,10 @@ header nav div{
 header nav div a{
     text-decoration: none;
     color: white;
-    font-size: small;
+    font-size: 1.8vw;
 }
 header>div>img{
-    width: 32vw;
+    width: 28vw;
 }
 body{
     margin: 0;
