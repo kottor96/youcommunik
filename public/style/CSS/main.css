@@ -33,14 +33,16 @@
 }
 .centreSection{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10vw;
     margin-top: 10vh;
     margin-bottom: 10vh;
 }
-.centreSection div{
-    margin-left: 200px;
-    margin-right: 100px;
+.partie3{
+    width: 50vw;
 }
+
 .partie4{
     display: flex;
     justify-content: center;
